@@ -1,5 +1,9 @@
 # ajax_dataSearch
 Implemetación de una busqueda con AJAX usando Flask de Python
+
+![FlaskDataSearchAJAX_part2](https://github.com/mectoys/ajax_dataSearch/assets/7143758/f3c39bbb-a912-4a75-9822-0d1d329b4f41)
+
+
 ![FlaskDataSearchAJAX_part1](https://github.com/mectoys/ajax_dataSearch/assets/7143758/21d85d73-3907-421a-8496-55e14c903e04)
 
     "En este tutorial, aprenderás a implementar una función de búsqueda en tiempo real en tu sitio web utilizando Flask, MySQL y AJAX. ¡Atrae a tus usuarios con una búsqueda eficiente y receptiva!"
