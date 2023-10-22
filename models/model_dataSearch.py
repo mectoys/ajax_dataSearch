@@ -12,5 +12,5 @@ class model_dataSearch:
             cursor.execute(SQL_SELECT, value)
             result = cursor.fetchall()
             data = [row[0] for row in result]
-
+            print(data)
         return data
